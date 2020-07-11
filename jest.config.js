@@ -18,7 +18,7 @@ module.exports = {
   },
 
   testMatch: [
-    "**/src/**/*.test.(js|jsx|ts|tsx)|**/__tests__/*.(js|jsx|ts|tsx)"
+    "**/src/**/**/*.test.(js|jsx|ts|tsx)|**/__tests__/*.(js|jsx|ts|tsx)"
   ],
   preset: "@vue/cli-plugin-unit-jest"
 };
